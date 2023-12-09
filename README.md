@@ -2,11 +2,11 @@
 
 README.TXT
 
-Overview 
+## Overview 
 
 This project works with the OpenAI Super Mario Bros gym environment and analyzes the performance of two reinforcement learning algorithms on the first level of both Super Mario Bros 1 and 2. The goal of this project is to determine if it is possible to find a learning model that can complete and consistently perform well in two different environments which vary in level of difficulty.
 
-Description 
+## Description 
 
 There are three main components to this project: the training folder, the testing folder, and Project.ipynb. 
 
