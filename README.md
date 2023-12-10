@@ -18,4 +18,4 @@ Project.ipynb is the main file the project uses to load and run all of the diffe
 
 ## Note to Graders
 
-Unfortunately due to GitHubs space constraints I cannot add the training and data folders onto this repository, but I have included a project.zip file in my Gradescope submission with all of the structured folders and the existing sample pretrained and test result datesets, alongside the Project.ipynb file. The Project.ipynb can still be run in a directory on its own and will work fine as it is set to generate a very small set of training data instead of using pretrained data and will still lead to a final test result. 
+Unfortunately due to GitHubs space constraints I cannot add the training and data folders onto this repository, but I have included a project.zip file in my Gradescope submission with all of the structured folders and the existing sample pretrained and test result datesets, alongside the Project.ipynb file. The Project.ipynb can still be run in a directory on its own and will work fine as it is set to generate a very small set of training data, instead of using pretrained data, and will produce test results based on that new dataset.
