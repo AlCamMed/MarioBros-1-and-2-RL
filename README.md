@@ -16,6 +16,6 @@ There also is an existing testing folder split into two subfolders for videos an
 
 Project.ipynb is the main file the project uses to load and run all of the different experimentations with the models and environments. In order to run the project simply start at the top of the Jupyter Notebook, ensuring you have installed the necessary packages, and work your way down running the labeled cells. The current file is set up for the user to be able to run completely in a short time and generate new test results and a video for one model. Due to the different aspects of the problem there are some cells which are to be skipped or in which small modifications are needed in order to produce results for a certain Mario game environment, learning model, reward function, or training dataset. Make sure you have the training and testing folders set up in the same directory as the notebook so that the pertained data can be reached and the newly generated data stored properly. 
 
-## Disclaimer
+## Note to Graders
 
-Unfortunately due to GitHubs space constraints I cannot add the training and data folders onto this repository, but I have included a zip file in my Gradescope submission with all of the structured folders and the Project.ipynb file ready to be downloaded and run without any issues. 
+Unfortunately due to GitHubs space constraints I cannot add the training and data folders onto this repository, but I have included a zip file in my Gradescope submission with all of the structured folders and the Project.ipynb file ready to be downloaded and run without any issues. I apologize for the inconvenience.
